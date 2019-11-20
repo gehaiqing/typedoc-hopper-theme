@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gehaiqing/typedoc-hopper-themes.git"
+    "url": "git://github.com/gehaiqing/typedoc-hopper-theme.git"
   },
   "license": "Apache-2.0",
   "engines": {
